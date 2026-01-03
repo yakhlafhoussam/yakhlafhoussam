@@ -34,3 +34,6 @@
 - 📧 Email: [yakhlafhoussam@gmail.com](mailto:yakhlafhoussam@gmail.com)  
 - 🌍 GitHub: [github.com/yakhlafhoussam](https://github.com/yakhlafhoussam)  
 - 🔗 LinkedIn: [linkedin.com/in/houssam-yakhlaf](https://www.linkedin.com/in/houssam-yakhlaf-0b3677319/)
+
+## 🔥 Activité récente :
+[![GitHub Streak](https://streak-stats.demolab.com?user=yakhlafhoussam&theme=radical)](https://git.io/streak-stats)
