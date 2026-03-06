@@ -18,7 +18,6 @@ Passionate about building web applications, learning new technologies, and solvi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
@@ -31,18 +30,13 @@ Passionate about building web applications, learning new technologies, and solvi
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies & Streaks
 
-![Houssam's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakhlafhoussam&show_icons=true&theme=tokyonight)  
-
----
-
-## 📈 Contribution Graph
-
-![Houssam's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=yakhlafhoussam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=false&hide_border=false&custom_title=Contributions)
+![Trophies](https://github-profile-trophy.vercel.app/?username=yakhlafhoussam&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yakhlafhoussam&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/houssam-yakhlaf-0b3677319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [Houssam Yakhlaf](https://www.linkedin.com/in/houssam-yakhlaf-0b3677319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
