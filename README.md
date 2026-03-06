@@ -1,73 +1,144 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Houssam Yakhlaf | Portfolio</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.3.2/dist/tailwind.min.css" rel="stylesheet">
-  <link rel="icon" href="hyK-logo.gif">
-  <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.12.0/dist/cdn.min.js" defer></script>
-</head>
-<body class="bg-gray-900 text-white font-sans">
-
-  <!-- Hero Section -->
-  <section class="flex flex-col items-center justify-center min-h-screen text-center px-4">
-    <img src="hyK-logo.gif" width="200" alt="HYK Logo" class="mb-4">
-    <h1 class="text-4xl md:text-5xl font-bold mb-2">Hey there! 👋 I'm Houssam Yakhlaf</h1>
-    <p class="text-xl md:text-2xl text-blue-400 mb-6">Full Stack Developer | Creative Coder | Open Source Enthusiast</p>
-    <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="Coding animation">
-  </section>
-
-  <hr class="border-gray-700 my-12">
-
-  <!-- About Me Section -->
-  <section class="max-w-4xl mx-auto px-4 text-center">
-    <h2 class="text-3xl font-bold mb-4">About Me</h2>
-    <p class="text-lg text-gray-300">I am a Full Stack Developer Student at YouCode, passionate about building web applications, learning new technologies, and solving real-world problems.</p>
-  </section>
-
-  <hr class="border-gray-700 my-12">
-
-  <!-- Tech Stack Section -->
-  <section class="max-w-4xl mx-auto px-4 text-center">
-    <h2 class="text-3xl font-bold mb-6">🛠️ Tech Stack</h2>
-    <div class="flex flex-wrap justify-center gap-4">
-      <img src="https://skillicons.dev/icons?i=c" alt="C" class="w-12 h-12 hover:scale-125 transition-transform duration-300">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,php,laravel,mysql,postgres,git,docker" class="w-12 h-12 hover:scale-125 transition-transform duration-300" alt="Tech Stack">
-    </div>
-  </section>
-
-  <hr class="border-gray-700 my-12">
-
-  <!-- GitHub Stats Section -->
-  <section class="max-w-4xl mx-auto px-4 text-center">
-    <h2 class="text-3xl font-bold mb-6">📈 GitHub Activity</h2>
-    <div class="flex flex-col md:flex-row justify-center items-center gap-4">
-      <img src="https://github-profile-trophy.vercel.app/?username=yakhlafhoussam&theme=dracula" alt="Trophies" class="w-full md:w-1/2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yakhlafhoussam&theme=dracula" alt="Streak" class="w-full md:w-1/2">
-    </div>
-  </section>
-
-  <hr class="border-gray-700 my-12">
-
-  <!-- Connect Section -->
-  <section class="max-w-4xl mx-auto px-4 text-center mb-12">
-    <h2 class="text-3xl font-bold mb-4">📫 Connect With Me</h2>
-    <a href="https://www.linkedin.com/in/houssam-yakhlaf-0b3677319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Houssam%20Yakhlaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </section>
-
-</body>
-</html>
-</div>
-
-<br/>
-
-<h3 align="center">📫 Connect With Me</h3>
+# Hey there! 👋 I'm Houssam Yakhlaf
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/houssam-yakhlaf-0b3677319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-Houssam%20Yakhlaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7B4CFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+Coder;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=houssam-yakhlaf&label=Profile%20Views&color=7b4cff&style=flat" alt="Profile views" />
+</p>
+
+## 🚀 About Me
+
+I'm a **Full Stack Developer student at YouCode** passionate about building web applications, learning new technologies, and solving real-world problems through code.
+
+- 🔭 I'm currently working on improving my skills in **TypeScript** and **Laravel**
+- 🌱 Learning **Docker** and **Cloud Technologies**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **C, PHP, JavaScript, and web development**
+- ⚡ Fun fact: I love solving problems and creating elegant solutions
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frameworks & Libraries
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=houssam-yakhlaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssam-yakhlaf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=houssam-yakhlaf&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=houssam-yakhlaf&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+## 📌 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">devmetrics</h3>
+        <p align="center">
+          <a href="https://github.com/houssam-yakhlaf/devmetrics">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=houssam-yakhlaf&repo=devmetrics&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="devmetrics repo"/>
+          </a>
+        </p>
+        <p align="center">GitHub analytics dashboard with real-time metrics</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">YouCode Forum</h3>
+        <p align="center">
+          <a href="https://github.com/houssam-yakhlaf/youcode-forum">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=houssam-yakhlaf&repo=youcode-forum&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="youcode-forum repo"/>
+          </a>
+        </p>
+        <p align="center">Student Q&A platform built with Laravel</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">TaskFlow</h3>
+        <p align="center">
+          <a href="https://github.com/houssam-yakhlaf/taskflow">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=houssam-yakhlaf&repo=taskflow&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="taskflow repo"/>
+          </a>
+        </p>
+        <p align="center">Minimalist kanban board with TypeScript</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Docker Lab</h3>
+        <p align="center">
+          <a href="https://github.com/houssam-yakhlaf/docker-lab">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=houssam-yakhlaf&repo=docker-lab&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="docker-lab repo"/>
+          </a>
+        </p>
+        <p align="center">Development environments as code</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssam-yakhlaf-0b3677319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houssam.y@youcode.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/houssam_yakhlaf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7b4cff?style=for-the-badge&logo=About.me&logoColor=white)](https://houssam.dev)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  
+### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/houssam-yakhlaf/houssam-yakhlaf/output/snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+  <br/>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+</p>
