@@ -21,6 +21,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yakhlafhoussam&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/yakhlafhoussam)
 
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abderrazakerrifaouy&theme=tokyonight)
+
 </div>
 
 <br/>
@@ -31,8 +33,4 @@
   <a href="https://www.linkedin.com/in/houssam-yakhlaf-0b3677319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-Houssam%20Yakhlaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-<div align="center">
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=yakhlafhoussam&theme=radical)  
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yakhlafhoussam&theme=radical)
 </div>
