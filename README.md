@@ -33,17 +33,16 @@ Passionate about building web applications, learning new technologies, and solvi
 
 ## 📊 GitHub Stats
 
-![Houssam's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakhlafhoussam&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yakhlafhoussam&layout=compact&theme=default)
+![Houssam's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakhlafhoussam&show_icons=true&theme=tokyonight)  
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
-[![Snake animation](https://github.com/yakhlafhoussam/github-readme-snake.svg)](https://github.com/yakhlafhoussam)
+![Houssam's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=yakhlafhoussam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=false&hide_border=false&custom_title=Contributions)
 
 ---
 
 ## 📫 Connect With Me
 
-- ![LinkedIn](https://www.linkedin.com/in/houssam-yakhlaf-0b3677319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- LinkedIn: (https://www.linkedin.com/in/houssam-yakhlaf-0b3677319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
