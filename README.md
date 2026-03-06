@@ -15,11 +15,12 @@
 
 <br/>
 
-<h3 align="center">📈 GitHub Activity</h3>
+<h3 align="center">📊 GitHub Statistics</h3>
 
 <div align="center">
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=yakhlafhoussam&theme=dracula)  
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yakhlafhoussam&theme=dracula)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yakhlafhoussam&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/yakhlafhoussam)
+
 </div>
 
 <br/>
@@ -34,14 +35,4 @@
 <div align="center">
   ![Trophies](https://github-profile-trophy.vercel.app/?username=yakhlafhoussam&theme=radical)  
   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yakhlafhoussam&theme=radical)
-</div>
-
-<br/>
-
-<h3 align="center">📫 Connect With Me</h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/houssam-yakhlaf-0b3677319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-Houssam%20Yakhlaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </div>
