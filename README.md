@@ -47,7 +47,6 @@ I'm a **Full Stack Developer student at YouCode** passionate about building web 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakhlafhoussam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
 </div>
 
 <div align="center">
