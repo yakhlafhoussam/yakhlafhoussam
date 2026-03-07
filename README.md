@@ -47,18 +47,7 @@ I'm a **Full Stack Developer student at YouCode** passionate about building web 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakhlafhoussam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakhlafhoussam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yakhlafhoussam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yakhlafhoussam&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 ## 🌐 Connect With Me
@@ -67,30 +56,5 @@ I'm a **Full Stack Developer student at YouCode** passionate about building web 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssam-yakhlaf-0b3677319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yakhlafhoussam@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/houssam_yakhlaf)
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  
-### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yakhlafhoussam/yakhlafhoussam/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
-  <br/>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
-</p>
