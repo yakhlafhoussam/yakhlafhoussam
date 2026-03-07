@@ -14,7 +14,7 @@ I'm a **Full Stack Developer student at YouCode** passionate about building web 
 
 - 🔭 I'm currently working on improving my skills in **TypeScript** and **Laravel**
 - 🌱 Learning **Docker** and **Cloud Technologies**
-- 👯 Looking to collaborate on **open source projects**
+- 🕷️ Looking to collaborate on **open source projects**
 - 💬 Ask me about **C, PHP, JavaScript, and web development**
 - ⚡ Fun fact: I love solving problems and creating elegant solutions
 
