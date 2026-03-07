@@ -48,7 +48,10 @@ I'm a **Full Stack Developer student at YouCode** passionate about building web 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yakhlafhoussam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakhlafhoussam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yakhlafhoussam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 ## 🌐 Connect With Me
