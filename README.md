@@ -55,6 +55,8 @@ I'm a **Full Stack Developer student at YouCode** passionate about building web 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yakhlafhoussam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
+![snake gif](https://github.com/yakhlafhoussam/yakhlafhoussam/blob/output/github-contribution-grid-snake.svg)
+
 ## 🌐 Connect With Me
 
 <div align="center">
