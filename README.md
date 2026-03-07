@@ -57,6 +57,12 @@ I'm a **Full Stack Developer student at YouCode** passionate about building web 
 
 ![snake gif](https://github.com/yakhlafhoussam/yakhlafhoussam/blob/output/github-contribution-grid-snake.svg)
 
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakhlafhoussam&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 🌐 Connect With Me
 
 <div align="center">
