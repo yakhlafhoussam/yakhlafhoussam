@@ -10,13 +10,15 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer student at YouCode** passionate about building web applications, learning new technologies, and solving real-world problems through code.
+🎓 Full Stack Developer student at **YouCode**
 
-- 🔭 I'm currently working on improving my skills in **TypeScript** and **Laravel**
-- 🌱 Learning **Docker** and **Cloud Technologies**
-- 🕷️ Looking to collaborate on **open source projects**
-- 💬 Ask me about **C, PHP, JavaScript, and web development**
-- ⚡ Fun fact: I love solving problems and creating elegant solutions
+💻 Passionate about building web applications and solving real-world problems with code.
+
+- 🌱 I started programming at school with **Scratch**, where I learned **variables, loops, and conditions** by building my first games.
+- 📱 Then I moved to **Sketchware + Firebase**, creating Android apps and learning more about logic and databases.
+- 🔥 Currently learning **TypeScript, Laravel, and Docker**
+- 🕷️ Interested in **Open Source**
+- ⚡ Love challenges and solving problems creatively
 
 ## 🛠️ Tech Stack
 
@@ -73,3 +75,5 @@ I'm a **Full Stack Developer student at YouCode** passionate about building web 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yakhlafhoussam@gmail.com)
 
 </div>
+
+⭐ From building games in **Scratch** to apps with **Sketchware + Firebase**, and now a Full Stack Developer — the journey continues.
