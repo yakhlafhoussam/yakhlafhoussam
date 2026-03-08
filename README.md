@@ -16,7 +16,7 @@
 
 - 🌱 I started programming at school with **Scratch**, where I learned **variables, loops, and conditions** by building my first games.
 - 📱 Then I moved to **Sketchware + Firebase**, creating Android apps and learning more about logic and databases.
-- 🔥 Currently learning **TypeScript, Laravel, and Docker**
+- 🔥 Currently learning **Fullstack web application**
 - 🕷️ Interested in **Open Source**
 - ⚡ Love challenges and solving problems creatively
 
