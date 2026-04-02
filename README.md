@@ -1,7 +1,3 @@
-<script>
-  location.reload();
-</script>
-
 # Hey there! 👋 I'm Houssam Yakhlaf
 
 <div align="center">
