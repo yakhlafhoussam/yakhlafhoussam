@@ -4,7 +4,9 @@
 
 ### Houssam Yakhlaf
 
-`Full Stack Developer` · `Spring Boot` · `Angular` · `Linux (Arch + Hyprland)`
+`Full Stack Developer` · `Linux (Arch + Hyprland)`
+
+<sub>full stack — see the breakdown below</sub>
 
 <img src="https://komarev.com/ghpvc/?username=yakhlafhoussam&label=Profile%20Views&color=7B4CFF&style=flat-square" alt="Profile views" />
 
@@ -18,18 +20,18 @@
 
 ## `whoami`
 
-I'm a Full Stack Developer student at **YouCode**, currently building **HYK** — a personal project and identity centered on backend architecture, Linux desktop tooling, and developer experience.
+🎓 Full Stack Developer student at **YouCode, Safi**
+💻 Passionate about building scalable web applications, desktop tools, and open-source projects.
 
-Earlier this year I did a **2-month Full Stack internship**, working on a production-facing feature set with **Spring Boot**, **Angular**, and **PostgreSQL** — my first real exposure to enterprise-style backend patterns: layered architecture, **Spring Security**, **JWT authentication**, and REST APIs consumed by an Angular frontend, all shipped through **Docker**.
+I'm a developer who enjoys understanding how systems work under the hood — from backend architecture to Linux customization and developer tooling.
 
-Outside of work, I run **Arch Linux** with **Hyprland**, scripting parts of my desktop with **AGS**. I like understanding systems down to how they're actually wired — same instinct whether it's a backend service or a window manager config.
-
-I started programming with **Scratch**, moved to **Sketchware + Firebase** to build my first Android apps, and have been steadily moving toward backend engineering and open source ever since.
-
-- 🔧 Focused on backend architecture and clean API design
-- 🐧 Daily-driving Arch Linux, customizing my workflow instead of accepting defaults
-- 📖 Learning in public, one project at a time
-- 🕷️ Open source curious — reading more code than I write, for now
+- 🌱 Started programming by building games with **Scratch**, where I learned programming fundamentals
+- 📱 Built Android applications with **Sketchware + Firebase**, gaining early experience with mobile development and databases
+- 🏫 At YouCode, learned the fundamentals of web development — **HTML/CSS/JS**, then **PHP + Laravel + SQL + Docker**
+- 💼 Completed a **2-month Full Stack internship**, working with **Spring Boot**, **Angular**, **PostgreSQL**, **Docker**, and **JWT Authentication**
+- 🐧 Daily Linux user (**Arch Linux**) with experience in **Hyprland**, **Wayland**, and desktop customization
+- 🤝 Interested in Open Source, Developer Tools, and System Programming
+- ⚡ Always looking for challenging projects that help me grow as a software engineer
 
 <br>
 
@@ -52,44 +54,32 @@ Built and shipped features across the stack using **Spring Boot** for the backen
 
 <br>
 
-## Current Focus
-
-```
-▸ HYK Desktop           — personal Linux desktop environment & tooling
-▸ Linux Desktop Dev     — Hyprland, Wayland, AGS
-▸ Backend Architecture  — going deeper on Spring Boot & clean API design
-▸ Open Source           — reading, contributing, learning how real projects are run
-▸ Developer Experience  — tools that make my own workflow faster
-```
-
-<br>
-
 ## Featured Projects
 
 <table>
 <tr>
-<td width="60" align="center">🖥️</td>
-<td width="220"><strong>HYK</strong></td>
-<td>Personal project and brand — Linux desktop tooling and configuration built around a minimal, cyber-minimal identity.</td>
-<td><sub><code>Hyprland</code> <code>AGS</code> <code>Linux</code></sub></td>
-</tr>
-<tr>
-<td align="center">🎨</td>
-<td><strong>Frontend Master</strong></td>
-<td>Frontend-focused project built to sharpen UI implementation and component structuring.</td>
-<td><sub><code>Angular</code> <code>TypeScript</code> <code>TailwindCSS</code></sub></td>
+<td width="60" align="center">🎓</td>
+<td width="220"><strong><a href="https://yakhlafhoussam.github.io/Frontend_Master/">DebuGGers</a></strong></td>
+<td>A lightweight learning platform to organize and browse course playlists, lessons, and subtitles in one place — grouped playlists, video playback with subtitles, lesson progress tracking, and personal notes per lesson in a responsive static front-end.</td>
+<td><sub><code>HTML</code> <code>CSS</code> <code>Tailwind</code> <code>JavaScript</code></sub></td>
 </tr>
 <tr>
 <td align="center">🕹️</td>
 <td><strong>PixelQuest</strong></td>
-<td>A small game project exploring logic, state, and interactivity outside of typical CRUD work.</td>
-<td><sub><code>JavaScript</code> <code>HTML5</code> <code>CSS3</code></sub></td>
+<td>A small game project exploring logic, state, and interactivity, consuming external APIs with vanilla JavaScript.</td>
+<td><sub><code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>Fetch API</code></sub></td>
 </tr>
 <tr>
 <td align="center">⌨️</td>
 <td><strong>Terminal Portfolio</strong></td>
 <td>A developer portfolio designed to look and behave like a terminal — form following function.</td>
 <td><sub><code>HTML</code> <code>CSS</code> <code>JavaScript</code></sub></td>
+</tr>
+<tr>
+<td align="center">🕸️</td>
+<td><strong><a href="https://github.com/yakhlafhoussam/BlackWave">BlackWave</a></strong></td>
+<td>First-year PFA project at YouCode — a dark-web simulation platform.</td>
+<td><sub><code>Laravel</code> <code>Blade</code> <code>PostgreSQL</code> <code>Docker</code></sub></td>
 </tr>
 <tr>
 <td align="center">🧩</td>
@@ -107,14 +97,14 @@ Built and shipped features across the stack using **Spring Boot** for the backen
 <summary><strong>Languages</strong></summary>
 <br>
 
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=7B4CFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=7B4CFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=7B4CFF)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=7B4CFF)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=7B4CFF)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=7B4CFF)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=7B4CFF)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=7B4CFF)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </details>
 
@@ -122,9 +112,11 @@ Built and shipped features across the stack using **Spring Boot** for the backen
 <summary><strong>Frontend</strong></summary>
 <br>
 
-![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=7B4CFF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=7B4CFF)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7B4CFF)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 </details>
 
@@ -132,12 +124,10 @@ Built and shipped features across the stack using **Spring Boot** for the backen
 <summary><strong>Backend</strong></summary>
 <br>
 
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=7B4CFF)
-![SpringSecurity](https://img.shields.io/badge/Spring_Security-000000?style=for-the-badge&logo=spring&logoColor=7B4CFF)
-![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=7B4CFF)
-![JPA](https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=java&logoColor=7B4CFF)
-![REST](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=7B4CFF)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=7B4CFF)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </details>
 
@@ -145,9 +135,9 @@ Built and shipped features across the stack using **Spring Boot** for the backen
 <summary><strong>Databases</strong></summary>
 <br>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=7B4CFF)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=7B4CFF)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=7B4CFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </details>
 
@@ -155,13 +145,13 @@ Built and shipped features across the stack using **Spring Boot** for the backen
 <summary><strong>DevOps & Tools</strong></summary>
 <br>
 
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=7B4CFF)
-![DockerCompose](https://img.shields.io/badge/Docker_Compose-000000?style=for-the-badge&logo=docker&logoColor=7B4CFF)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=7B4CFF)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=7B4CFF)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=7B4CFF)
-![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=7B4CFF)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=7B4CFF)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </details>
 
@@ -169,11 +159,11 @@ Built and shipped features across the stack using **Spring Boot** for the backen
 <summary><strong>Desktop Development</strong></summary>
 <br>
 
-![Hyprland](https://img.shields.io/badge/Hyprland-000000?style=for-the-badge&logo=wayland&logoColor=7B4CFF)
-![Wayland](https://img.shields.io/badge/Wayland-000000?style=for-the-badge&logo=wayland&logoColor=7B4CFF)
-![AGS](https://img.shields.io/badge/AGS-000000?style=for-the-badge&logo=gnome&logoColor=7B4CFF)
-![Astal](https://img.shields.io/badge/Astal-000000?style=for-the-badge&logo=gtk&logoColor=7B4CFF)
-![GTK4](https://img.shields.io/badge/GTK4-000000?style=for-the-badge&logo=gtk&logoColor=7B4CFF)
+![Hyprland](https://img.shields.io/badge/Hyprland-00AEFF?style=for-the-badge&logo=hyprland&logoColor=white)
+![Wayland](https://img.shields.io/badge/Wayland-FFBC00?style=for-the-badge&logo=wayland&logoColor=black)
+![AGS](https://img.shields.io/badge/AGS-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
+![Astal](https://img.shields.io/badge/Astal-4A86CF?style=for-the-badge&logo=gtk&logoColor=white)
+![GTK4](https://img.shields.io/badge/GTK4-4A86CF?style=for-the-badge&logo=gtk&logoColor=white)
 
 </details>
 
