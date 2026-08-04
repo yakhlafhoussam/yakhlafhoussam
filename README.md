@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7B4CFF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Backend+%2B+Linux+Desktop+Tinkerer;Building+HYK" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7B4CFF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;DevOps;Building+HYK" alt="Typing SVG" />
 
 ### Houssam Yakhlaf
 
-`Full Stack Developer` · `Linux (Arch + Hyprland)`
+`Full Stack Developer`
 
 <sub>full stack — see the breakdown below</sub>
 
