@@ -110,9 +110,4 @@ Lycée Mohammed Belahcen El Ouazzani · 2024
 ---
 
 > **HYK**
->
-> `sudo apt install desktop-environment`
->
-> *Terminal portfolio → Desktop environment.*
->
-> The terminal was getting a little too comfortable.
+
