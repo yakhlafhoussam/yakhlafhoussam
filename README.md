@@ -109,7 +109,6 @@ Lycée Mohammed Belahcen El Ouazzani · 2024
 
 ---
 
-> **HYK**
 > ```text
 > ██   ██ ██    ██ ██   ██
 > ██   ██  ██  ██  ██  ██
