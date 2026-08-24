@@ -78,7 +78,7 @@ My interactive portfolio, designed as a virtual desktop environment.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yakhlafhoussam&theme=tokyonight&hide_border=true&background=0D1117&ring=7B4CFF&fire=7B4CFF&currStreakLabel=7B4CFF" alt="GitHub Streak" width="48%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=yakhlafhoussam&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yakhlafhoussam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7B4CFF&line=7B4CFF&point=ffffff" alt="GitHub Activity Graph" width="95%" />
 
