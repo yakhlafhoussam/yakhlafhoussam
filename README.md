@@ -80,8 +80,6 @@ My interactive portfolio, designed as a virtual desktop environment.
 
 <img src="https://streak-stats.demolab.com/?user=yakhlafhoussam&theme=dark"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yakhlafhoussam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7B4CFF&line=7B4CFF&point=ffffff" alt="GitHub Activity Graph" width="95%" />
-
 <img src="https://github.com/yakhlafhoussam/yakhlafhoussam/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="95%" />
 
 </div>
